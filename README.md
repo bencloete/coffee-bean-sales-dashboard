@@ -60,16 +60,16 @@ The **Orders** table acts as the central fact table, linking customer and produc
 
 ## Repository Structure
 
-coffee-bean-sales-dashboard  
-│  
-├── excel/  
-│   └── coffee-bean-sales-dashboard.xlsx  
-│  
-├── data/  
-│   └── coffee-bean-sales-raw-data.xlsx  
-│  
-├── images/  
-│   └── coffee-bean-sales-dashboard-preview.png  
-│  
-├── LICENSE  
-└── README.md  
+coffee-bean-sales-dashboard
+│
+├── data/
+│ └── coffee-bean-sales-raw-data.xlsx
+│
+├── excel/
+│ └── coffee-bean-sales-dashboard.xlsx
+│
+├── images/
+│ └── coffee-bean-sales-dashboard-preview.png
+│
+├── LICENSE
+└── README.md
