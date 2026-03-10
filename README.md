@@ -56,6 +56,8 @@ The **Orders** table acts as the central fact table, linking customer and produc
 
 ## Dashboard Preview
 
+![Coffee Sales Dashboard](images/coffee-bean-sales-dashboard-preview.png)
+
 ## Repository Structure
 
 coffee-bean-sales-dashboard  
@@ -67,7 +69,7 @@ coffee-bean-sales-dashboard
 │   └── raw datasets used for analysis  
 │  
 ├── images/  
-│   └── dashboard-preview.png  
+│   └── coffee-bean-sales-dashboard-preview.png  
 │  
 ├── LICENSE  
 └── README.md  
