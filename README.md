@@ -1,6 +1,10 @@
 # Coffee Bean Sales Dashboard
 
-**Tools Used:** Excel | Pivot Tables | Data Analysis | Dashboarding
+## Tools Used 
+- Excel
+- Pivot Tables
+- Data Analysis
+- Dashboarding
 
 ## Project Overview
 
