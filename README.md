@@ -66,7 +66,7 @@ coffee-bean-sales-dashboard
 │   └── coffee-bean-sales-dashboard.xlsx  
 │  
 ├── data/  
-│   └── raw datasets used for analysis  
+│   └── coffee-bean-sales-raw-data.xlsx  
 │  
 ├── images/  
 │   └── coffee-bean-sales-dashboard-preview.png  
