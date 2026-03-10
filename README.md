@@ -1,11 +1,5 @@
 # Coffee Bean Sales Dashboard
 
-## Tools Used 
-- Excel
-- Pivot Tables
-- Data Analysis
-- Dashboarding
-
 ## Project Overview
 
 This project analyses transactional coffee sales data using Microsoft Excel to identify patterns in product performance, regional revenue, and customer behaviour. The analysis integrates multiple datasets before building an interactive dashboard to explore key sales insights.
