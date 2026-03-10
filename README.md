@@ -1,8 +1,6 @@
 # Coffee Bean Sales Dashboard
 
-![Excel](https://img.shields.io/badge/Tool-Excel-green)
-![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-blue)
-![Dashboard](https://img.shields.io/badge/Output-Dashboard-orange)
+**Tools Used:** Excel | Pivot Tables | Data Analysis | Dashboarding
 
 ## Project Overview
 
